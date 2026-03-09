@@ -1,0 +1,29 @@
+commit b27df58b5590c61fbb792470704d467b11cf8fcc
+Author: mario <mmcg219@wgu.edu>
+Date:   Mon Mar 9 14:18:43 2026 -0500
+
+    test message
+
+commit 3d5c1375b545132ce62836d050a0aad3f8f58019
+Author: mario <mmcg219@wgu.edu>
+Date:   Mon Mar 9 14:10:38 2026 -0500
+
+    new line added
+
+commit 7b78ec655e412a1afe5571960c2e56ee9d791207
+Author: mario <mmcg219@wgu.edu>
+Date:   Mon Mar 9 14:06:47 2026 -0500
+
+    Adds example.md
+
+commit bf7fd8b0aeaffa5b89c2dc6ee6c3b4b0fa1b1959
+Author: mario <mmcg219@wgu.edu>
+Date:   Mon Mar 9 13:14:51 2026 -0500
+
+    Adds example.txt
+
+commit d9beb330e0056c14968dc4476f3519b6da1e04aa
+Author: Mac2024 <99700613+Mac2024@users.noreply.github.com>
+Date:   Mon Mar 9 13:02:17 2026 -0500
+
+    Initial commit
